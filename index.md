@@ -1,10 +1,10 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-## Welcome to GitHub Pages
+## TECNOCOLOR-5000
 
-You can use the [editor on GitHub](https://github.com/tecnocolor-5000/tecnocolor-5000.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Bienvenido a la empresa tecnocolor
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esta empresa te ayudara a reparar computadoras a cercana y a distancia
 
 ### Markdown
 
