@@ -10,7 +10,7 @@ Esta empresa te ayudara a reparar computadoras a cercana y a distancia
 
 Si si reparamos celulares
 
-```markdown
+
 tambien hacemos arreglo de telefonos y computadoras a domicilio
 
 
