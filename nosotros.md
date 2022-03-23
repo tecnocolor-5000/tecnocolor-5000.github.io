@@ -11,7 +11,29 @@
   
   Y damos cursos para principiantes y personas avanzadas por si quieren apreder mas
   
+ ## Valores
  
+ nosostros prometemos arrgelar su computadora 
+ desde arreglar 
+ -virus
+ -malware
+ -problemas de suciedad
+ -problemaas de internos y externos
+ 
+ ## Armar computadoras 
+ 
+ siii como leyo armamos computadores desde  15,000 pesos hasta de 50,000 
+ no espere mas 
+
+## Vision a futuro
+
+Queremos volovernos una empresa de nivel internacional y ayudar mas gente
+ 
+
+
+
+
+
 
 
 
