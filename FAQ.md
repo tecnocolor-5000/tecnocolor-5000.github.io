@@ -19,24 +19,24 @@ Toma de desiciones.
 Término fin de toma de desiciones o bucle.
 Bucle. 
 
-4. ¿Qué es una variable?
+4.-¿Qué es una variable?
 Es un espacio de memoria reservado que se utiliza para almacenar un determinado valor que va a ser utiizado, modificado dentro de un programa.
 
-5. ¿ complete?
+5.-¿ complete?
 Las variables obtienen sus nombres según como la quiera llamar   el programador  
 
-6. ¿Enumere los tipos de variables que hay?
+6.-¿Enumere los tipos de variables que hay?
 hay 3 tipos de variables que son:
 Numéricas 
 Alfanuméricas
 Flotantes
-7. ¿Complete?
+7.-¿Complete?
 Para nombrar una variable no se  permite utilizar   ninguna clase de signo a diferencia o excepción  del guión bajo .
 
-8. ¿verdadero o falso?
+8.-¿verdadero o falso?
 Las numéricas son donde se almacena todo tipo de carácter, ya sean letras, números o signos             ( falso )
 
-9. ¿Escriba un ejemplo de una variable flotante?
+9.-¿Escriba un ejemplo de una variable flotante?
 
              0,35;          1,50;        231,59
 
@@ -53,39 +53,39 @@ C es un lenguaje de programación de propósito general que ofrece economía sin
 13. ¿complete?
 Este lenguaje ha sido estrechamente ligado al  sistema operativo UNIX, puesto que fueron desarrollados conjuntamente.
 
-14. ¿En que año fue creado el lenguaje c?
+14.-¿En que año fue creado el lenguaje c?
 fue creado en el año 1972
 
-15. ¿El nombre del diseñador (a) del lenguaje c?
+15.-¿El nombre del diseñador (a) del lenguaje c?
 Dennis M. Ritchie en los Laboratorios Bell
 
-16. ¿Escriba 5 ventajas del lenguaje c?
+16.-¿Escriba 5 ventajas del lenguaje c?
 * Es un lenguaje muy flexible que permite programar con múltiples estilos. Uno de los más empleados es el estructurado "no llevado al extremo" (permitiendo ciertas licencias de ruptura).
 * Un sistema de tipos que impide operaciones sin sentido.
 * Usa un lenguaje de preprocesado, el preprocesador de C, para tareas como definir macros e incluir múltiples archivos de código fuente.
 * Acceso a memoria de bajo nivel mediante el uso de punteros.
 * Un conjunto reducido de palabras clave.
 
-17. ¿Escriba 5 Desventajas del lenguaje c?
+17.-¿Escriba 5 Desventajas del lenguaje c?
 * Recolección de basura nativa, sin embargo se encuentran a tal efecto bibliotecas como la "libgc" desarrollada por Sun Microsystems, o el Recolector de basura de Boehm.
 * Soporte para programación orientada a objetos, aunque la implementación original de C++ fue un preprocesador que traducía código fuente de C++ a C.
 * Encapsulación.
 * Polimorfismo en tiempo de código en forma de sobrecarga, sobrecarga de operadores y sólo dispone de un soporte rudimentario para la programación genérica.
 * Soporte nativo para programación multihilo y redes de computadores.
 
-18. ¿La compilación un programa c se realiza en cuantas fases?
+18.-¿La compilación un programa c se realiza en cuantas fases?
 Preprocesado consistente en modificar el código fuente en C según una serie de instrucciones (denominadas directivas de preprocesado) simplificando de esta forma el trabajo delcompilador. Por ejemplo, una de las acciones más importantes es la modificación de las inclusiones (#include) por las declaraciones reales existentes en el archivo indicado.
 Compilación que genera el código objeto a partir del código ya preprocesado.
 Enlazado que une los códigos objeto de los distintos módulos y bibliotecas externas (como las bibliotecas del sistema) para generar el programa ejecutable final.
 
-19. ¿cuales son las variantes del lenguaje c?
+19.-¿cuales son las variantes del lenguaje c?
 Objective-C
 C++
 Java
 JavaScript
 C#
 
-20¿Cuales son los inconvenientes del lencuaje c?
+20.-¿Cuales son los inconvenientes del lencuaje c?
 El mayor problema que presenta el lenguaje C frente a los lenguajes de tipo de dato dinámico es la gran diferencia en velocidad de desarrollo: es más lento programar en C, sobre todo para el principiante. La razón estriba en que el compilador de C se limita a traducir código sin apenas añadir nada.
 
 21.- ¿Qué es un lenguaje de programación?
