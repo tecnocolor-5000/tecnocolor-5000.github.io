@@ -30,6 +30,7 @@ hay 3 tipos de variables que son:
 Numéricas 
 Alfanuméricas
 Flotantes
+
 7.-¿Complete?
 Para nombrar una variable no se  permite utilizar   ninguna clase de signo a diferencia o excepción  del guión bajo .
 
