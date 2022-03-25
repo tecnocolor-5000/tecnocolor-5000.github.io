@@ -5,9 +5,9 @@
 1.-¿Qué es diagrama de flujo?
 El diagrama de flujo es la representación gráfica del algoritmo o proceso. se utiliza en las disciplinas como programa, la economía, los procesos industriales y la psicología cognitiva.
 
- 2.  ¿Qué utilizan los diagramas de flujo?
+2.  ¿Qué utilizan los diagramas de flujo?
 Utilizan símbolos con significados que representa los pasos y representa el flujo de ejecución mediante sus flechas que conectan los pasos de inicio y de fin de proceso.
- 3. ¿Cuantos diagramas de flujos hay?
+3. ¿Cuantos diagramas de flujos hay?
 hay 9 diagramas de flujos que son:
 Inicio y fín.
 Ingreso.
