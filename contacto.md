@@ -1,13 +1,7 @@
 [Nosotros](./nosotros.md) . [Servicios](./servicios.md) . [FAQ](FAQ.md) . [Ubicación](ubicacion.md) . [Contacto](./contacto.md)
 
-# FORMAS DE CONTACTARNOS
-
-## CORREOS ELECTRONICOS
-
-carlometro53@gmail.com
-minecraftopro8@gmail.com
-
-## REDES SOCIALES
-
-Facebook:tecnocolor-5000 oficial
-Twitter:Tecnocolor-5000 twitter oficial
+<form action="https://formspree.io/f/xzboaryp" method="post">
+Name: <input type="text" name="name"><br>
+E-mail: <input type="text" name="email"><br>
+<input type="submit">
+</form>
