@@ -4,9 +4,9 @@
 Nombre: <input type="text" name="name"><br>
 Apellido: <input type="text" name="name"><br> 
 E-mail: <input type="text" name="email"><br>
-Telefono: <label for="phone">Enter a phone number:</label><br><br>
+Telefono: <label for="phone">introduce tu numero de telefono:</label><br><br>
   <input type="tel" id="phone" name="phone" placeholder="123-45-678" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}" required><br><br>
-  <small>Format: 123-45-678</small><br><br>
+  <small>Format: 55-00-00</small><br><br>
   <input type="submit" value="Submit">
 <input type="submit">
 </form>
