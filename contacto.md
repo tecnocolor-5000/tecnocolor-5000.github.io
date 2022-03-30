@@ -8,5 +8,10 @@ Telefono: <label for="phone">introduce tu numero de telefono:</label><br><br>
   <input type="tel" id="phone" name="phone" placeholder="55-4842-6242" pattern="[0-9]{2}-[0-9]{4}-[0-9]{4}" required><br><br> 
    <small>Formato: 55-2167-4268</small><br><br>
   
-<input type="submit">
+<form action="/action_page.php">
+  <label for="birthday">Birthday:</label>
+  <input type="date" id="birthday" name="birthday">
+  <input type="submit" value="Submit">
+  
+   <input type="submit">
 </form>
