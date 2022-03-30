@@ -11,6 +11,5 @@ Telefono: <label for="phone">introduce tu numero de telefono:</label><br><br>
 <form action="/action_page.php">
   <label for="birthday">Birthday:</label>
   <input type="date" id="birthday" name="birthday">
-  <input type="submit" value="Submit">
-     <input type="submit">
+       <input type="submit">
 </form>
