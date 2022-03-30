@@ -14,6 +14,5 @@ Telefono: <label for="phone">introduce tu numero de telefono:</label><br><br>
   <form action="/action_page.php">
   <label for="quantity">Quantity (between 1 and 10):</label>
   <input type="number" id="quantity" name="quantity" min="1" max="10">
-  
-    <input type="submit">
+  <input type="submit">
 </form>
